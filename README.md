@@ -25,7 +25,7 @@ This repository contains Python projects completed as part of the CODSOFT Python
 - Paste it into any Python online compiler (Programiz / Replit)
 - Run the program and provide inputs as instructed
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python 3
 - Basic control structures
 - Functions
